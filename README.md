@@ -4,4 +4,6 @@ Official repo for the "To Do List" project using Java, Spark, Handlebars etc for
 Each branch contains a new "Step" of code. Please fork, then clone.
 
 #Author
-Richard Gitonga M
+Richard Mwirabua Gitonga
+
+The crazy guy
