@@ -5,5 +5,4 @@ Each branch contains a new "Step" of code. Please fork, then clone.
 
 #Author
 Richard Mwirabua Gitonga
-
-The crazy guy
+Pipelines revision
